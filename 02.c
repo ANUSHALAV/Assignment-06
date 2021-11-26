@@ -43,8 +43,7 @@ main()
 			printf("sum = %d",f/=s);
 			break;
 		default:
-			printf("Envalid choise");
-	};
-	
+			printf("Invalid choice");
+	};	
 getch();
 }
